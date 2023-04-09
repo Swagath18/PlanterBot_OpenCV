@@ -5,7 +5,7 @@
 You can watch our project being featured in the Eyantra YouTube video [here](https://www.youtube.com/watch?v=G5kA1Q-j_ZU&ab_channel=e-Yantra). Check out the following timestamps to see specific parts of our project in action:
 - Object Detection: 24sec to 30sec [here](https://youtu.be/G5kA1Q-j_ZU?t=24)
 - Image Overlay: 39sec to 45sec [here](https://youtu.be/G5kA1Q-j_ZU?t=39)
-- Source & Participation ID: 57sec to 1min 04 sec [here](https://youtu.be/G5kA1Q-j_ZU?t=58)
+- Source cited with Participation ID: 57sec to 1min 04 sec [here](https://youtu.be/G5kA1Q-j_ZU?t=58)
 
 
 
